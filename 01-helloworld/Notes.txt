@@ -1,0 +1,9 @@
+Tutorial:
+https://expressjs.com/en/starter/installing.html
+
+----------------------------------------------------
+Run app
+----------------------------------------------------
+$ node app.js
+
+=> open localhost:3000
